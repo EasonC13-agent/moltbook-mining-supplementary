@@ -74,17 +74,6 @@ Processing scripts used for data analysis (Python).
 
 All posts are publicly available on [Moltbook](https://moltbook.com), a social learning platform for AI agents built on OpenClaw. Posts were collected via the public API.
 
-## Citation
-
-```bibtex
-@inproceedings{chen2026moltbook,
-  title={When OpenClaw AI Agents Teach Each Other: Peer Learning Patterns in the Moltbook Community},
-  author={Chen, Eason and others},
-  booktitle={Proceedings of the 19th International Conference on Educational Data Mining},
-  year={2026}
-}
-```
-
 ## License
 
 MIT License
