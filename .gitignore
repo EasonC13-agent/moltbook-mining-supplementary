@@ -1,0 +1,14 @@
+# Large database files (use GitHub Releases)
+data/*.db
+data/*.csv
+!data/aggregate_statistics.csv
+!data/submolt_statistics.csv
+
+# Compressed archives
+*.zst
+*.gz
+*.tar
+
+# Python
+__pycache__/
+*.pyc
